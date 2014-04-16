@@ -1,0 +1,141 @@
+MAX: 35
+Image Number: 0
+Coordinates: (193,0)
+Map Type: 0
+ 
+Image Number: 1
+Coordinates: (298,27)
+Map Type: 0
+ 
+Image Number: 2
+Coordinates: (468,36)
+Map Type: 0
+ 
+Image Number: 3
+Coordinates: (279,118)
+Map Type: 3
+ 
+Image Number: 4
+Coordinates: (479,97)
+Map Type: 0
+ 
+Image Number: 5
+Coordinates: (494,106)
+Map Type: 0
+ 
+Image Number: 6
+Coordinates: (362,61)
+Map Type: 1
+ 
+Image Number: 7
+Coordinates: (196,102)
+Map Type: 1
+ 
+Image Number: 8
+Coordinates: (227,209)
+Map Type: 0
+ 
+Image Number: 9
+Coordinates: (510,273)
+Map Type: 0
+ 
+Image Number: 10
+Coordinates: (148,279)
+Map Type: 0
+ 
+Image Number: 11
+Coordinates: (319,321)
+Map Type: 0
+ 
+Image Number: 12
+Coordinates: (155,352)
+Map Type: 0
+ 
+Image Number: 13
+Coordinates: (239,420)
+Map Type: 0
+ 
+Image Number: 14
+Coordinates: (432,379)
+Map Type: 1
+ 
+Image Number: 15
+Coordinates: (119,429)
+Map Type: 2
+ 
+Image Number: 16
+Coordinates: (484,441)
+Map Type: 0
+ 
+Image Number: 17
+Coordinates: (130,488)
+Map Type: 0
+ 
+Image Number: 18
+Coordinates: (47,461)
+Map Type: 1
+ 
+Image Number: 19
+Coordinates: (305,511)
+Map Type: 0
+ 
+Image Number: 20
+Coordinates: (502,562)
+Map Type: 0
+ 
+Image Number: 21
+Coordinates: (219,571)
+Map Type: 0
+ 
+Image Number: 22
+Coordinates: (352,601)
+Map Type: 1
+ 
+Image Number: 23
+Coordinates: (412,660)
+Map Type: 0
+ 
+Image Number: 24
+Coordinates: (526,687)
+Map Type: 0
+ 
+Image Number: 25
+Coordinates: (188,666)
+Map Type: 1
+ 
+Image Number: 26
+Coordinates: (266,727)
+Map Type: 0
+ 
+Image Number: 27
+Coordinates: (486,753)
+Map Type: 0
+ 
+Image Number: 28
+Coordinates: (372,758)
+Map Type: 2
+ 
+Image Number: 29
+Coordinates: (297,785)
+Map Type: 0
+ 
+Image Number: 30
+Coordinates: (356,844)
+Map Type: 3
+ 
+Image Number: 31
+Coordinates: (478,870)
+Map Type: 0
+ 
+Image Number: 32
+Coordinates: (260,878)
+Map Type: 2
+ 
+Image Number: 33
+Coordinates: (343,924)
+Map Type: 2
+ 
+Image Number: 34
+Coordinates: (447,930)
+Map Type: 0
+ 
